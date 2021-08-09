@@ -1,5 +1,4 @@
-# #30DaysOfWeb3 ☕️💻🕸⛓
-### Ethereum Edition
+# #30DaysOfWeb3 ☕️💻🕸⛓ - Ethereum Edition
 
 Felicitaciones por unirte a #30DaysOfWeb3, vamos a estar intensivamente estudiando como hacer la transición de ser web2 developer a ser web3 developer y que puedas construir tú también el futuro de la web. 🚀
 
