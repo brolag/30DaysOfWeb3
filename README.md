@@ -1,6 +1,6 @@
-# #30DaysOfWeb3
+# #30DaysOfWeb3 ☕️💻🕸⛓
 
-Felicitaciones por unirte a #30DaysOfWeb3, vamos a estar intensivamente estudiando React junto con el ecosistema que le rodea.
+Felicitaciones por unirte a #30DaysOfWeb3, vamos a estar intensivamente estudiando como hacer la transición de ser web2 developer a ser web3 developer y que puedas construir tú también el futuro de la web. 🚀
 
 La idea es estudiar una pieza corta de material día a día y practicar para poder aprender o reforzar conceptos sobre React y otras herramientas relacionadas.
 
