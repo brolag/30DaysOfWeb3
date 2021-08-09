@@ -1,4 +1,4 @@
-# #30DaysOfReact
+# #30DaysOfWeb3
 
 Felicitaciones por unirte a #30DaysOfWeb3, vamos a estar intensivamente estudiando React junto con el ecosistema que le rodea.
 
