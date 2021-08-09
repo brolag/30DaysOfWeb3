@@ -9,7 +9,7 @@ La idea es estudiar una pieza corta de material día a día y practicar para pod
 Este programa asume un conocimiento intermedio sobre desarrollo web, en especial JavaScript y React. Si no sabes o no recuerdas cómo funciona React te recomiendo hacer una pausa y mirar el reto [#30DaysOfReact](https://github.com/brolag/30DaysOfReact).
 
 También he encontrado recomendable conocer un poco sobre crypto y su entorno. 
-- Puedes explorar más sobre cómo inicia todo en [este taller](https://aantonop.com/workshops/introduction-to-bitcoin-and-open-blockchains/) de Bitcoin de (Andreas Antonopoulos)[https://twitter.com/aantonop].
+- Puedes explorar más sobre cómo inicia todo en [este taller](https://aantonop.com/workshops/introduction-to-bitcoin-and-open-blockchains/) de Bitcoin de [Andreas Antonopoulos](https://twitter.com/aantonop).
 - Vamos a aprender más sobre Ethereum sin embargo es importante que conozcas de qué se trata, puedes encontrar más información [aquí](https://ethereum.org/en/what-is-ethereum/).
 - Esta es [una lista](https://familiar-ski-3bc.notion.site/Recursos-sobre-criptomonedas-0372553c8baf4838862613deade43aa1) con los recursos que he utilizado y sigo utilizando para aprender más sobre blockchain y criptomonedas.
 - Por último, desarrolle una clase explicando el origen de las criptomonedas y sus conceptos básicos, puedes aquirir la clase (aquí)[https://brolag.gumroad.com/l/criptomonedas/dcx002f] con *70% de descuento*.
