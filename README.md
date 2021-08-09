@@ -47,4 +47,4 @@ El día uno consiste en revisar a alto nivel el material que vamos a estudiar, r
 
 También es un buen día para invitar a otros colegas a unirse.
 
-Puden ver [esta conversación](https://youtu.be/ogjOjUjCVLk) entre [Nader Dabit](https://twitter.com/dabit3) y [Austin Griffith](https://twitter.com/austingriffith) para obtener aún más motivacion.
+Te recomiendo ver [esta conversación](https://youtu.be/ogjOjUjCVLk) entre [Nader Dabit](https://twitter.com/dabit3) y [Austin Griffith](https://twitter.com/austingriffith) para incrementar aún más tu motivacion.
