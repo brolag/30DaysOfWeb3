@@ -2,6 +2,8 @@
 
 Felicitaciones por unirte a #30DaysOfWeb3, vamos a estar intensivamente estudiando como hacer la transición de ser web2 developer a ser web3 developer y que puedas construir tú también el futuro de la web. 🚀
 
+El objetivo de este reto es ayudar a la mayor cantidad de desarrolladores web a transicionar a la web3 de la manera más eficiente y divertida posible.
+
 La idea es estudiar una pieza corta de material día a día y practicar para poder aprender conceptos sobre Web3, blockchain, Ethereum y otras herramientas relacionadas.
 
 ## Pre-requisitos
