@@ -1,6 +1,6 @@
 # #30DaysOfReact
 
-Felicitaciones por unirte a #30DaysOfReact, vamos a estar intensivamente estudiando React junto con el ecosistema que le rodea.
+Felicitaciones por unirte a #30DaysOfWeb3, vamos a estar intensivamente estudiando React junto con el ecosistema que le rodea.
 
 La idea es estudiar una pieza corta de material día a día y practicar para poder aprender o reforzar conceptos sobre React y otras herramientas relacionadas.
 
