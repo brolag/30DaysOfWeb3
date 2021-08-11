@@ -50,3 +50,15 @@ El día uno consiste en revisar a alto nivel el material que vamos a estudiar, r
 También es un buen día para invitar a otros colegas a unirse.
 
 Te recomiendo ver [esta conversación](https://youtu.be/ogjOjUjCVLk) entre [Nader Dabit](https://twitter.com/dabit3) y [Austin Griffith](https://twitter.com/austingriffith) para incrementar aún más tu motivacion.
+
+### Día 1: Introducción a Ethereum
+
+Existen múltiples plataformas basadas en blockchain pero en este programa nos vamos a enfocar en Ethereum ya que es una de las plataformas más desarrolladas y con un ecosistema más amplio. Muchos de los conceptos de web3 son aplicables también a otras plataformas blockchain tambien.
+
+El objetivo de hoy es entender qués una blockchain y que es Ethereum, qué es una dapp y cuál es la diferencia entre web2 y web3.
+
+*** Contenido sugerido
+- [Introducción a Ethereum](https://ethereum.org/es/developers/docs/intro-to-ethereum/) 
+- [Introducción a las Dapps](https://ethereum.org/es/developers/docs/dapps/)
+- [Web2 vs Web3](https://ethereum.org/es/developers/docs/web2-vs-web3/)
+
