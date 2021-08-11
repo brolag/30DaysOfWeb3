@@ -57,7 +57,7 @@ Existen múltiples plataformas basadas en blockchain pero en este programa nos v
 
 El objetivo de hoy es entender qués una blockchain y que es Ethereum, qué es una dapp y cuál es la diferencia entre web2 y web3.
 
-**Contenido sugerido
+*Contenido sugerido
 - [Introducción a Ethereum](https://ethereum.org/es/developers/docs/intro-to-ethereum/) 
 - [Introducción a las Dapps](https://ethereum.org/es/developers/docs/dapps/)
 - [Web2 vs Web3](https://ethereum.org/es/developers/docs/web2-vs-web3/)
