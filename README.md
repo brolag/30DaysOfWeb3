@@ -51,7 +51,7 @@ También es un buen día para invitar a otros colegas a unirse.
 
 Te recomiendo ver [esta conversación](https://youtu.be/ogjOjUjCVLk) entre [Nader Dabit](https://twitter.com/dabit3) y [Austin Griffith](https://twitter.com/austingriffith) para incrementar aún más tu motivacion.
 
-### Día 1: Introducción a Ethereum
+### Día 1: Introducción a la web3
 
 Existen múltiples plataformas basadas en blockchain pero en este programa nos vamos a enfocar en Ethereum ya que es una de las plataformas más desarrolladas y con un ecosistema más amplio. Muchos de los conceptos de web3 son aplicables también a otras plataformas blockchain tambien.
 
