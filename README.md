@@ -62,3 +62,13 @@ El objetivo de hoy es entender qués una blockchain y que es Ethereum, qué es u
 - [Introducción a las Dapps](https://ethereum.org/es/developers/docs/dapps/)
 - [Web2 vs Web3](https://ethereum.org/es/developers/docs/web2-vs-web3/)
 
+### Día 2: Cómo programar en Ethereum
+
+Solidity es el lenguaje de programación utilizado para programar contratos inteligentes en la plataforma de Ethereum. El día 2 está dedicado a brindar una pincelada de Solidity y el objetivo será poder instalar el compilador de solidity y poder escribir las primeras lineas en este lenguaje.
+
+**Contenido recomendado:**
+- [¿Qué son smart contracts?](https://ethereum.org/es/developers/docs/smart-contracts/)
+- [Instalar el compilador de Solidty](https://solidity-es.readthedocs.io/es/latest/installing-solidity.html)
+- [Hola Mundo en Solidity](https://solidity-by-example.org/hello-world/)
+- [¿Cómo programar en Ethereum?](https://youtu.be/Dm4oRsxQKbE) por [EscuelaCryptoEs](https://escuelacryptoes.com/)
+
