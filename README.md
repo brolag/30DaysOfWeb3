@@ -72,3 +72,13 @@ Solidity es el lenguaje de programación utilizado para programar contratos inte
 - [Hola Mundo en Solidity](https://solidity-by-example.org/hello-world/)
 - [¿Cómo programar en Ethereum?](https://youtu.be/Dm4oRsxQKbE) por [EscuelaCryptoEs](https://escuelacryptoes.com/)
 
+
+### Día 3: Práctica de programación en Solidity 1
+
+Aprender haciendo es una buena estrategia para abordar nuevos lenguajes de programación. Para el día 3 se recomienda utilizar la plataforma de Crypto Zombies, un curso bastante claro sobre programación de contratos inteligentes en Ethereum.
+
+**Contenido recomendado:**
+- [Primera aplicación en Solidity - Solidity by Example](https://solidity-by-example.org/first-app/)
+- [Crypto Zombies - Lección 1](https://cryptozombies.io/es/lesson/1)
+- [Crypto Zombies - Lección 2](https://cryptozombies.io/es/lesson/2)
+
