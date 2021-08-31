@@ -73,7 +73,7 @@ Solidity es el lenguaje de programación utilizado para programar contratos inte
 - [¿Cómo programar en Ethereum?](https://youtu.be/Dm4oRsxQKbE) por [EscuelaCryptoEs](https://escuelacryptoes.com/)
 
 
-### Día 3: Práctica de programación en Solidity I
+### Día 3: Práctica #1 de programación en Solidity 
 
 Aprender haciendo es una buena estrategia para abordar nuevos lenguajes de programación. Para el día 3 se recomienda utilizar la plataforma de Crypto Zombies, un curso bastante claro sobre programación de contratos inteligentes en Ethereum.
 
