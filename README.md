@@ -82,3 +82,11 @@ Aprender haciendo es una buena estrategia para abordar nuevos lenguajes de progr
 - [Crypto Zombies - Lección 1](https://cryptozombies.io/es/lesson/1)
 - [Crypto Zombies - Lección 2](https://cryptozombies.io/es/lesson/2)
 
+### Día 4: Conceptos avanzados de Solidity
+
+Continuamos estudiando cómo funciona Ethereum y algunos conceptos avanzados de programación en Solidty.
+
+**Contenido recomendado:**
+- [Crypto Zombies - Lección 3](https://cryptozombies.io/es/lesson/3/chapter/1)
+- [La máquina virtual de Ethereum](https://ethereum.org/es/developers/docs/evm/)
+- [El Gas y las tarifas](https://ethereum.org/es/developers/docs/gas/)
