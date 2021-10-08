@@ -90,3 +90,10 @@ Continuamos estudiando cómo funciona Ethereum y algunos conceptos avanzados de 
 - [Crypto Zombies - Lección 3](https://cryptozombies.io/es/lesson/3/chapter/1)
 - [La máquina virtual de Ethereum](https://ethereum.org/es/developers/docs/evm/)
 - [El Gas y las tarifas](https://ethereum.org/es/developers/docs/gas/)
+
+### Día 5: Repaso sobre contratos inteligentes.
+
+Repaso sobre los conceptos de smart contracts (qué son, qué no son) y algunos simples sobre contratos y herramientas que se pueden utilizar.
+
+**Contenido recomendado:**
+- [Aprendamos sobre smart contracts](https://youtu.be/d3gc8-mQf6o)
