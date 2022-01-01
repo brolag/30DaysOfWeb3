@@ -1,8 +1,12 @@
 # #30DaysOfWeb3 ☕️💻🕸⛓
 
-## Versión en Español 🇪🇸
+Welcome to #30DaysOfWeb3 Challenge a curated list of the best resources about web3. Learn day by day, bit by bit and enjoy your ride down to the rabbit hole!
+
+### Versión en Español 🇪🇸
 
 [#30DiasDeWeb3](https://github.com/brolag/30DiasDeWeb3)
+
+## Log
 
 ### Day 1 - What is Web 3?
 
